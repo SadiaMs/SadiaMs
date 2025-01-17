@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SadiaMs
+- 👋 Hi, I’m @Sadia Siddique
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning  next.js...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-SadiaMs/SadiaMs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sadia siddique/Sadia siddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
